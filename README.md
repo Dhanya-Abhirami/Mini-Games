@@ -1,1 +1,1 @@
-A python work simulating the Hangman game
+Python codes for mini games
