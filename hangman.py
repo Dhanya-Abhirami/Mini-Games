@@ -7,7 +7,7 @@ Code by S.Dhanya Abhirami
     O
   -- --
     |
-  \/ \/
+   / \
  
 '''
 from random import *
@@ -41,7 +41,7 @@ def disp(x,s):
         
     else:
         s+='''
-          \/ \/\nBetter luck next time!'''
+           / \ \nBetter luck next time!'''
         
     print(s)
     return s       
