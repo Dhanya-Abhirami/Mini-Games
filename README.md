@@ -1,1 +1,2 @@
-Python codes for mini games
+Python mini games
+Have some fun!
